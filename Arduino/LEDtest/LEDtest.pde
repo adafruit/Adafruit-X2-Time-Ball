@@ -11,7 +11,7 @@ void setup() {
   SPI.begin();
   SPI.setBitOrder(MSBFIRST);
   SPI.setDataMode(SPI_MODE0);
-  SPI.setClockDivider(SPI_CLOCK_DIV8);
+  SPI.setClockDivider(SPI_CLOCK_DIV16); // 1 MHz
 }
 
 int p = 0; // Current pixel being lit
