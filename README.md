@@ -1,7 +1,7 @@
 ## This repository has been archived
 
 The files in this repository accompanied an Adafruit Project "X2 Time Ball" aka "2012 Disco Time Ball" 
-and were moved to [https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/IR_Sensor](https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/IR_Sensor)
+and were moved to [https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Adafruit_X2_Time_Ball](https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Adafruit_X2_Time_Ball)
 
 See these Adafruit blog posts for additional details:
 - https://blog.adafruit.com/2011/12/16/a-little-bit-of-times-square-on-your-desk/
